@@ -1,0 +1,94 @@
+{
+    "chapters": [
+        {
+            "chapter_title": "Cinemática",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Video Teoría",
+                    "description": "Bienvenida",
+                    "url": "https://www.youtube.com/watch?v=ofxKvZ7eWT0"
+                },
+                {
+                    "type": "Video Teoría",
+                    "description": "Coordenadas cartesianas",
+                    "url": "https://www.youtube.com/watch?v=g4F_LkJwauA"
+                },
+                {
+                    "type": "Video Teoría",
+                    "description": "Mov. Curvilíneo",
+                    "url": "https://www.youtube.com/watch?v=vtmtDLG6dEY&t=886s"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 5",
+                    "url": "https://www.youtube.com/watch?v=Bl9JNGsMjQY"
+                },
+                {
+                    "type": "Video Teoría",
+                    "description": "Casos particulares de movimiento",
+                    "url": "https://www.youtube.com/watch?v=YzuVodAiZNU&t=6s"
+                },
+                {
+                    "type": "Video Teoría",
+                    "description": "Coordenadas intrinsecas",
+                    "url": "https://www.youtube.com/watch?v=fDthWb5HnPQ"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 6. Mov. en espiral",
+                    "url": "https://www.youtube.com/watch?v=3N5ilBdYRyU"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 8. Radio de curvatura tiro oblicuo",
+                    "url": "https://www.youtube.com/watch?v=m96Zp9GF02k"
+                },
+                {
+                    "type": "Video Teoría",
+                    "description": "Movimiento Relativo",
+                    "url": "https://www.youtube.com/watch?v=dN0ATISwp7I"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 12. Movimiento Relativo",
+                    "url": "https://www.youtube.com/watch?v=nGKiBRODdyE"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 13. MCU, MRU y Movimiento Relativo",
+                    "url": "https://www.youtube.com/watch?v=0-K40qsOZ6Q"
+                },
+                {
+                    "type": "Video Práctica",
+                    "description": "EJ 15. Simil CR",
+                    "url": "https://www.youtube.com/watch?v=OjXMXSili4g"
+                }
+
+            ]
+        },
+        {
+            "chapter_title": "Dinámica",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "",
+                    "description": "",
+                    "url": ""
+                },
+                {
+                    "type": "",
+                    "description": "",
+                    "url": ""
+                },
+                {
+                    "type": "",
+                    "description": "",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --bg-img: url("https://www.wallpapertip.com/wmimgs/81-815214_iphone-wallpaper-aesthetic-moon.jpg");
+}
+
+/* ---------------- */
+/*      General     */
+/* ---------------- */
+body {
+  background: var(--bg-img);
+  background-attachment: fixed;
+  background-position: 40%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: #e7e7e7;
+  margin-bottom: 1.2rem;
+}
+h2 {
+  color: #e7e7e7;
+  font-size: 2rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* ---------------- */
+/*      Header      */
+/* ---------------- */
+header {
+  backdrop-filter: blur(10px);
+  background: #4141418a;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+  width: fit-content !important;
+}
+header .row {
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5) inset;
+}
+header button {
+  align-items: center;
+  backdrop-filter: blur(40px);
+  background-color: #4242426b !important;
+  border-radius: 1rem !important;
+  border: 3px solid rgba(75, 75, 75, 0.5) !important;
+  box-shadow: 0 -5px 30px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.9);
+  color: #fff !important;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.25rem !important;
+  height: 2.5rem !important;
+  justify-content: center;
+  min-width: 4rem !important;
+  text-align: center;
+  z-index: 20;
+}
+header button:hover {
+  border: 3px solid rgba(0, 0, 0, 0.25) !important;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.9) inset;
+}
+header .btn-container {
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: var(--bg-img);
+  border-radius: 1rem;
+  margin: 0.5rem;
+}
+
+/* --------------- */
+/*      Cards      */
+/* --------------- */
+#cards_container {
+  backdrop-filter: blur(10px);
+  background: #1f1f1f8a;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.card {
+  background: #ffffff8f;
+  border-radius: 1rem;
+  border: 0;
+  box-shadow: 0 0.5vmin 1vmin rgba(0, 0, 0, 0.4);
+  color: #fff;
+  font-size: 1.5vw;
+  font-weight: bold;
+  overflow: hidden;
+}
+.card::before {
+  bottom: 0;
+  content: "";
+  filter: blur(30px);
+  left: 0;
+  margin: -40px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: var(--bg-img);
+  background-attachment: fixed;
+  background-position: 40%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.card > * {
+  color: #e7e7e7;
+  font-size: 0.9rem;
+  font-weight: bold;
+  z-index: 1;
+}
+.card-footer {
+  background-color: transparent;
+  border: 0;
+  padding-bottom: 2vmin;
+}
+.check-button {
+  background-color: rgba(255, 0, 77, 0.25);
+  border-color: #fff;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  height: 50px;
+  width: 50px;
+}
+.check-button:hover {
+  background-color: rgba(255, 0, 77, 0.5);
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.5);
+  transition: all 0.3s;
+}
+.check-button i {
+  color: white;
+  font-size: 3rem !important;
+  line-height: 0px !important;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.task-completed {
+  background-color: #00ff8740;
+  border-color: #00ff87;
+}
+.task-completed:hover {
+  background-color: #00ff8780;
+  box-shadow: 0 0 30px #00ff8780;
+  transition: all 0.3s;
+}
+.task-uncompleted {
+  background-color: #ff004d40;
+  border-color: #ff004d;
+}
+.task-uncompleted:hover {
+  background-color: #ff004d80;
+  box-shadow: 0 0 30px #ff004d80;
+  transition: all 0.3s;
+}
+
+/* --------------- */
+/*     Chapters    */
+/* --------------- */
+.chapter-container {
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.65) inset;
+  margin: 2rem;
+  padding: 2rem;
+}
+.chapter {
+  backdrop-filter: blur(10px);
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(5, 5, 5, 0.85);
+  transition: all 0.3s;
+}
+
+/* --------------- */
+/*      Icons      */
+/* --------------- */
+.bi-star-fill {
+  color: #ffc400;
+}
