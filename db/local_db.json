@@ -6,66 +6,70 @@
             "cards_total": "",
             "cards_content": [
                 {
-                    "type": "Video Teoría",
-                    "description": "Bienvenida",
-                    "url": "https://www.youtube.com/watch?v=ofxKvZ7eWT0"
+                    "type": "Teorica",
+                    "description": " Introduccion a la Fisica",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133867"
                 },
                 {
-                    "type": "Video Teoría",
-                    "description": "Coordenadas cartesianas",
-                    "url": "https://www.youtube.com/watch?v=g4F_LkJwauA"
+                    "type": "Teorica",
+                    "description": " Vectores y Sist. Coord Cartesianas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135733"
                 },
                 {
-                    "type": "Video Teoría",
-                    "description": "Mov. Curvilíneo",
-                    "url": "https://www.youtube.com/watch?v=vtmtDLG6dEY&t=886s"
+                    "type": "Teorica",
+                    "description": " Cinematica Movimientos Parte 1",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135735"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 5",
-                    "url": "https://www.youtube.com/watch?v=Bl9JNGsMjQY"
+                    "type": "Practica",
+                    "description": " Ej5  Moto",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133857"
                 },
                 {
-                    "type": "Video Teoría",
-                    "description": "Casos particulares de movimiento",
-                    "url": "https://www.youtube.com/watch?v=YzuVodAiZNU&t=6s"
+                    "type": "Teorica",
+                    "description": " Cinematica. Movimientos Parte 2",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135736"
                 },
                 {
-                    "type": "Video Teoría",
-                    "description": "Coordenadas intrinsecas",
-                    "url": "https://www.youtube.com/watch?v=fDthWb5HnPQ"
+                    "type": "Teorica",
+                    "description": " Cinematica. Coordenadas Intrinsecas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135737"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 6. Mov. en espiral",
-                    "url": "https://www.youtube.com/watch?v=3N5ilBdYRyU"
+                    "type": "Práctica",
+                    "description": " Ej6  Ave",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134616"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 8. Radio de curvatura tiro oblicuo",
-                    "url": "https://www.youtube.com/watch?v=m96Zp9GF02k"
+                    "type": "Practica",
+                    "description": " Ej 8  Espiral",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136581"
                 },
                 {
-                    "type": "Video Teoría",
-                    "description": "Movimiento Relativo",
-                    "url": "https://www.youtube.com/watch?v=dN0ATISwp7I"
+                    "type": "Practica",
+                    "description": " Ej 9  Tiro Oblicuo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133251"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 12. Movimiento Relativo",
-                    "url": "https://www.youtube.com/watch?v=nGKiBRODdyE"
+                    "type": "Teorica",
+                    "description": " Cinematica. Movimiento Relativo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135744"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 13. MCU, MRU y Movimiento Relativo",
-                    "url": "https://www.youtube.com/watch?v=0-K40qsOZ6Q"
+                    "type": "Practica",
+                    "description": " Ej 12  Bote Mov Rel",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133805"
                 },
                 {
-                    "type": "Video Práctica",
-                    "description": "EJ 15. Simil CR",
-                    "url": "https://www.youtube.com/watch?v=OjXMXSili4g"
+                    "type": "Practica",
+                    "description": " Ej 13  Mov Relativo MCU MRU",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136929"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 15  Aro Cicloide Mov Rel",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138715"
                 }
-
             ]
         },
         {
@@ -74,19 +78,211 @@
             "cards_total": "",
             "cards_content": [
                 {
-                    "type": "",
-                    "description": "",
-                    "url": ""
+                    "type": "Teorica",
+                    "description": " Dinamica. Introduccion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135818"
                 },
                 {
-                    "type": "",
-                    "description": "",
-                    "url": ""
+                    "type": "Teorica",
+                    "description": " Dinamica. Introduccion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144099"
                 },
                 {
-                    "type": "",
-                    "description": "",
-                    "url": ""
+                    "type": "Práctica",
+                    "description": " Ej  16  DCL",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138584"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Rozamiento Seco",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=139524"
+                },
+                {
+                    "type": "Completar",
+                    "description": "COMPLETAR",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144100"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 22  Bloques roz",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=133858"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 23  Bloques y barra",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134645"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 25  Hombre/Plataforma",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138112"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 26  Bolita MCU",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134888"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 27  Peralte",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134646"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 24  Vinculo poleas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134377"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Rozamiento Viscoso.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135873"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 29  Fuerza Viscosa",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134575"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerza Atr Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134973"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Prof. Corsini. Fuerza Atr Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144101"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136920"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas M.A.S.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=137523"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica Fuerzas Elásticas. Prof. Corsini. M.A.S. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144103"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Pendulo 1. Prof. Corsini.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144104"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Dinamica. Pendulo 2. Prof. Corsini. ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144105"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 31  MAS pistón cond. iniciales",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136245"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 32  Bloques MAS",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134188"
+                },
+                {
+                    "type": "Completar",
+                    "description": "COMPLETAR",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144106"
+                },
+                {
+                    "type": "Completar",
+                    "description": "COMPLETAR",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=150474"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 34  SRNI",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135608"
+                }
+            ]
+        },
+        {
+            "chapter_title": "Trabajo y energía",
+            "chapter_description": "",
+            "cards_total": "",
+            "cards_content": [
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Def Trabajo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134791"
+                },
+                {
+                    "type": "Practica",
+                    "description": "Ej 12  Trabajo por definicion",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136930"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Def. Energia. Teoremas",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134989"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 13  Maquina de Atwood",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=141777"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 15  plano inclinado y resorte",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135909"
+                },
+                {
+                    "type": "Practica",
+                    "description": " Ej 16 Rulo",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=136582"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Energia en un MAS",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134804"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. Diagramas Energ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134866"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia Energ Pot Grav",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=134882"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej  17  Péndulo y clavo ",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=138585"
+                },
+                {
+                    "type": "Práctica",
+                    "description": " Ej 18  mov. cuasiestático",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=135910"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Trabajo y Energia. 2 Sist. de Referencia.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=144137"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Definiciones",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147174"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Fuerzas Centrales y Kepler.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147178"
+                },
+                {
+                    "type": "Teorica",
+                    "description": " Teo. de Conservacion. Cuplas y Traslado de Fuerzas.",
+                    "url": "https://campus.fi.uba.ar/mod/url/view.php?id=147179"
                 }
             ]
         }
